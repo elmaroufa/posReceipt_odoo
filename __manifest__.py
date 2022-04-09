@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-	'name': 'Receipt Caisse',
+	'name': 'Receipt',
 	'summary': 'Customized Receipt of Point Of Sales',
 	'version': '13.0',
 	'author': 'Proxima Technologie Cameroon',
